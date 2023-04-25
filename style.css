@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    position: relative;
+    top: 30px;
+    margin: 30px;
+    color: white;
+}
+
+div#busca {
+    position: relative;
+    text-align: center;
+    bottom: 15px;
+}
+
+input#busca {
+    position: relative;
+    border-radius: 10px;
+    bottom: 15px;
+}
+
+img#lupa {
+    position: relative;
+    bottom: 5px;
+}
+
+em#entrar {
+    position: relative;
+    left: 1700px;
+    font-size: xx-large;
+    bottom: 50px;
+    border-radius: 20px;
+}
+
+em#inicio {
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+}
+
+img#inicio {
+    width: 40px;
+    height: 40px;
+}
